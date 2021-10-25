@@ -1,3 +1,7 @@
+# Important! Avoid errors!
+# don't forget to add the RAW-URL of this list to PiHole only!
+# https://raw.githubusercontent.com/umbm/PiHoleBlocklist/main/mibox.list
+
 de.tv.global.mi.com
 tracking.intl.miui.com
 data.mistat.intl.xiaomi.com
